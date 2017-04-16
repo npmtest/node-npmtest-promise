@@ -1,7 +1,7 @@
 # test coverage for  [promise (v7.1.1)](https://github.com/then/promise)  [![npm package](https://img.shields.io/npm/v/npmtest-promise.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-promise) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-promise.svg)](https://travis-ci.org/npmtest/node-npmtest-promise)
 #### Bare bones Promises/A+ implementation
 
-[![NPM](https://nodei.co/npm/promise.png?downloads=true)](https://www.npmjs.com/package/promise)
+[![NPM](https://nodei.co/npm/promise.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/promise)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-promise/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,11 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-promise/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-promise/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-promise/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-promise/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-promise/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-promise/build/coverage.html/index.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-promise/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-promise/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-promise/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-promise%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-promise/build/test-report.html)
+[![test-report](https://npmtest.github.io/node-npmtest-promise/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-promise/build/test-report.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-promise/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-promise%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-promise/build/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-promise/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-promise/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-promise/build/screenCapture.npmPackageListing.svg)
 
@@ -55,17 +55,14 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "forbeslindesay",
-            "email": "forbes@lindesay.co.uk"
+            "name": "forbeslindesay"
         },
         {
-            "name": "nathan7",
-            "email": "nathan@nathan7.eu"
+            "name": "nathan7"
         }
     ],
     "name": "promise",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/then/promise.git"
